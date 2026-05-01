@@ -1,1 +1,101 @@
-
+image_name,mask_name,class
+image_01984_img.jpg,image_01984_layer.jpg,Cheops
+image_06563_img.jpg,image_06563_layer.jpg,Cheops
+image_05458_img.jpg,image_05458_layer.jpg,Cheops
+image_08988_img.jpg,image_08988_layer.jpg,Cheops
+image_07372_img.jpg,image_07372_layer.jpg,Cheops
+image_01217_img.jpg,image_01217_layer.jpg,Cheops
+image_08927_img.jpg,image_08927_layer.jpg,Cheops
+image_08556_img.jpg,image_08556_layer.jpg,Cheops
+image_05600_img.jpg,image_05600_layer.jpg,Cheops
+image_07451_img.jpg,image_07451_layer.jpg,Cheops
+image_07007_img.jpg,image_07007_layer.jpg,LisaPathfinder
+image_05076_img.jpg,image_05076_layer.jpg,LisaPathfinder
+image_03273_img.jpg,image_03273_layer.jpg,LisaPathfinder
+image_07651_img.jpg,image_07651_layer.jpg,LisaPathfinder
+image_05254_img.jpg,image_05254_layer.jpg,LisaPathfinder
+image_08204_img.jpg,image_08204_layer.jpg,LisaPathfinder
+image_02102_img.jpg,image_02102_layer.jpg,LisaPathfinder
+image_04335_img.jpg,image_04335_layer.jpg,LisaPathfinder
+image_09820_img.jpg,image_09820_layer.jpg,LisaPathfinder
+image_09063_img.jpg,image_09063_layer.jpg,LisaPathfinder
+image_06197_img.jpg,image_06197_layer.jpg,ObservationSat1
+image_04865_img.jpg,image_04865_layer.jpg,ObservationSat1
+image_07651_img.jpg,image_07651_layer.jpg,ObservationSat1
+image_06742_img.jpg,image_06742_layer.jpg,ObservationSat1
+image_08007_img.jpg,image_08007_layer.jpg,ObservationSat1
+image_09221_img.jpg,image_09221_layer.jpg,ObservationSat1
+image_01420_img.jpg,image_01420_layer.jpg,ObservationSat1
+image_02599_img.jpg,image_02599_layer.jpg,ObservationSat1
+image_04489_img.jpg,image_04489_layer.jpg,ObservationSat1
+image_01690_img.jpg,image_01690_layer.jpg,ObservationSat1
+image_04821_img.jpg,image_04821_layer.jpg,Proba2
+image_06719_img.jpg,image_06719_layer.jpg,Proba2
+image_02444_img.jpg,image_02444_layer.jpg,Proba2
+image_02625_img.jpg,image_02625_layer.jpg,Proba2
+image_00650_img.jpg,image_00650_layer.jpg,Proba2
+image_01993_img.jpg,image_01993_layer.jpg,Proba2
+image_03626_img.jpg,image_03626_layer.jpg,Proba2
+image_03402_img.jpg,image_03402_layer.jpg,Proba2
+image_08522_img.jpg,image_08522_layer.jpg,Proba2
+image_00312_img.jpg,image_00312_layer.jpg,Proba2
+image_08064_img.jpg,image_08064_layer.jpg,Proba3
+image_04941_img.jpg,image_04941_layer.jpg,Proba3
+image_06596_img.jpg,image_06596_layer.jpg,Proba3
+image_00705_img.jpg,image_00705_layer.jpg,Proba3
+image_07904_img.jpg,image_07904_layer.jpg,Proba3
+image_09014_img.jpg,image_09014_layer.jpg,Proba3
+image_05719_img.jpg,image_05719_layer.jpg,Proba3
+image_00448_img.jpg,image_00448_layer.jpg,Proba3
+image_07190_img.jpg,image_07190_layer.jpg,Proba3
+image_09872_img.jpg,image_09872_layer.jpg,Proba3
+image_01041_img.jpg,image_01041_layer.jpg,Proba3ocs
+image_04496_img.jpg,image_04496_layer.jpg,Proba3ocs
+image_06123_img.jpg,image_06123_layer.jpg,Proba3ocs
+image_03042_img.jpg,image_03042_layer.jpg,Proba3ocs
+image_03866_img.jpg,image_03866_layer.jpg,Proba3ocs
+image_08476_img.jpg,image_08476_layer.jpg,Proba3ocs
+image_05091_img.jpg,image_05091_layer.jpg,Proba3ocs
+image_05269_img.jpg,image_05269_layer.jpg,Proba3ocs
+image_04314_img.jpg,image_04314_layer.jpg,Proba3ocs
+image_09298_img.jpg,image_09298_layer.jpg,Proba3ocs
+image_03075_img.jpg,image_03075_layer.jpg,Smart1
+image_07208_img.jpg,image_07208_layer.jpg,Smart1
+image_07839_img.jpg,image_07839_layer.jpg,Smart1
+image_01923_img.jpg,image_01923_layer.jpg,Smart1
+image_05447_img.jpg,image_05447_layer.jpg,Smart1
+image_09653_img.jpg,image_09653_layer.jpg,Smart1
+image_03273_img.jpg,image_03273_layer.jpg,Smart1
+image_05672_img.jpg,image_05672_layer.jpg,Smart1
+image_04582_img.jpg,image_04582_layer.jpg,Smart1
+image_06723_img.jpg,image_06723_layer.jpg,Smart1
+image_07754_img.jpg,image_07754_layer.jpg,Soho
+image_04193_img.jpg,image_04193_layer.jpg,Soho
+image_08845_img.jpg,image_08845_layer.jpg,Soho
+image_06044_img.jpg,image_06044_layer.jpg,Soho
+image_04089_img.jpg,image_04089_layer.jpg,Soho
+image_00196_img.jpg,image_00196_layer.jpg,Soho
+image_03535_img.jpg,image_03535_layer.jpg,Soho
+image_04926_img.jpg,image_04926_layer.jpg,Soho
+image_09944_img.jpg,image_09944_layer.jpg,Soho
+image_03271_img.jpg,image_03271_layer.jpg,Soho
+image_05003_img.jpg,image_05003_layer.jpg,VenusExpress
+image_09785_img.jpg,image_09785_layer.jpg,VenusExpress
+image_09611_img.jpg,image_09611_layer.jpg,VenusExpress
+image_08732_img.jpg,image_08732_layer.jpg,VenusExpress
+image_02135_img.jpg,image_02135_layer.jpg,VenusExpress
+image_03639_img.jpg,image_03639_layer.jpg,VenusExpress
+image_02408_img.jpg,image_02408_layer.jpg,VenusExpress
+image_08563_img.jpg,image_08563_layer.jpg,VenusExpress
+image_09383_img.jpg,image_09383_layer.jpg,VenusExpress
+image_00089_img.jpg,image_00089_layer.jpg,VenusExpress
+image_06689_img.jpg,image_06689_layer.jpg,XMM Newton
+image_01767_img.jpg,image_01767_layer.jpg,XMM Newton
+image_08939_img.jpg,image_08939_layer.jpg,XMM Newton
+image_08663_img.jpg,image_08663_layer.jpg,XMM Newton
+image_05890_img.jpg,image_05890_layer.jpg,XMM Newton
+image_08123_img.jpg,image_08123_layer.jpg,XMM Newton
+image_01413_img.jpg,image_01413_layer.jpg,XMM Newton
+image_07381_img.jpg,image_07381_layer.jpg,XMM Newton
+image_01167_img.jpg,image_01167_layer.jpg,XMM Newton
+image_00003_img.jpg,image_00003_layer.jpg,XMM Newton
